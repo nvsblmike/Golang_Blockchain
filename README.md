@@ -1,2 +1,2 @@
-# Go_Bookstore-API-
-project on creating a bookstore API with Go
+# Golang)MongoDB_API
+project on creating a mongoDB API with Go
